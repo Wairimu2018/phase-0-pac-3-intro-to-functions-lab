@@ -23,7 +23,7 @@ function shout(string) {
     else if (aWord.toUpperCase(aWord) === aWord) {
       return yes;
     }
-    else if ("Let's have dinner together!" === aWord) {
+    else if (dinner=== aWord) {
       return loveto
     }
   }
